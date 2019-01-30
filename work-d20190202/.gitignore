@@ -1,3 +1,5 @@
 .stack-work/
 work-d20190202.cabal
 *~
+/sum
+/tmp_hnh.txt
